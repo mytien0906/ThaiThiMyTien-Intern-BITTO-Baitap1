@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "HyundaiSansVnTextOffice";
+  src: url("../fonts/HyundaiSansVNTextOffice-Regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/HyundaiSansVNTextOffice-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/HyundaiSansVNTextOffice-Regular.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/HyundaiSansVNTextOffice-Regular.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/HyundaiSansVNTextOffice-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/HyundaiSansVNTextOffice-Regular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/HyundaiSansVNTextOffice-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HyundaiSansVnTextOffice";
+  src: url("../fonts/HyundaiSansVNHeadOffice-Light.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/HyundaiSansVNHeadOffice-Light.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/HyundaiSansVNHeadOffice-Light.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/HyundaiSansVNHeadOffice-Light.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/HyundaiSansVNHeadOffice-Light.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/HyundaiSansVNHeadOffice-Light.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/HyundaiSansVNHeadOffice-Light.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HyundaiSansVnTextOffice";
+  src: url("../fonts/HyundaiSansVNTextOffice-Bold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/HyundaiSansVNTextOffice-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/HyundaiSansVNTextOffice-Bold.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/HyundaiSansVNTextOffice-Bold.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/HyundaiSansVNTextOffice-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/HyundaiSansVNTextOffice-Bold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/HyundaiSansVNTextOffice-Bold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HyundaiSansVnTextOffice";
+  src: url("../fonts/HyundaiSansVNHeadOffice-Medium.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/HyundaiSansVNHeadOffice-Medium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/HyundaiSansVNHeadOffice-Medium.otf") format("opentype"), /* Open Type Font */
+    url("../fonts/HyundaiSansVNHeadOffice-Medium.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/HyundaiSansVNHeadOffice-Medium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/HyundaiSansVNHeadOffice-Medium.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/HyundaiSansVNHeadOffice-Medium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: 500;
+  font-style: normal;
+}
